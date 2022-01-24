@@ -1,0 +1,4 @@
+pillow
+pytesseract
+awscli
+boto3
